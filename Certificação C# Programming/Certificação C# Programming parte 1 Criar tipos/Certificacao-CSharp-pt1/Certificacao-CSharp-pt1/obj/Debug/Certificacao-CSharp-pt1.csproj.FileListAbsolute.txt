@@ -1,0 +1,6 @@
+C:\Users\dtnagami\Desktop\Projects\Alura\Certificação C# Programming\Certificação C# Programming parte 1 Criar tipos\Certificacao-CSharp-pt1\Certificacao-CSharp-pt1\bin\Debug\Certificacao-CSharp-pt1.exe.config
+C:\Users\dtnagami\Desktop\Projects\Alura\Certificação C# Programming\Certificação C# Programming parte 1 Criar tipos\Certificacao-CSharp-pt1\Certificacao-CSharp-pt1\bin\Debug\Certificacao-CSharp-pt1.exe
+C:\Users\dtnagami\Desktop\Projects\Alura\Certificação C# Programming\Certificação C# Programming parte 1 Criar tipos\Certificacao-CSharp-pt1\Certificacao-CSharp-pt1\bin\Debug\Certificacao-CSharp-pt1.pdb
+C:\Users\dtnagami\Desktop\Projects\Alura\Certificação C# Programming\Certificação C# Programming parte 1 Criar tipos\Certificacao-CSharp-pt1\Certificacao-CSharp-pt1\obj\Debug\Certificacao-CSharp-pt1.csprojAssemblyReference.cache
+C:\Users\dtnagami\Desktop\Projects\Alura\Certificação C# Programming\Certificação C# Programming parte 1 Criar tipos\Certificacao-CSharp-pt1\Certificacao-CSharp-pt1\obj\Debug\Certificacao-CSharp-pt1.exe
+C:\Users\dtnagami\Desktop\Projects\Alura\Certificação C# Programming\Certificação C# Programming parte 1 Criar tipos\Certificacao-CSharp-pt1\Certificacao-CSharp-pt1\obj\Debug\Certificacao-CSharp-pt1.pdb
