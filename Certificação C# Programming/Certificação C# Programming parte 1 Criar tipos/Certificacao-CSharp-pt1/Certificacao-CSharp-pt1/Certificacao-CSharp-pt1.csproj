@@ -62,6 +62,7 @@
     <Compile Include="Aula 3\2 - Parametros\ParametrosOpcionais.cs" />
     <Compile Include="Aula 3\3 - Métodos de Extensão\MetodosDeExtensao.cs" />
     <Compile Include="Aula 3\4 - Propriedades Indexadas\PropriedadesIndexadas.cs" />
+    <Compile Include="Aula 4\1 - Métodos Sobrecarregados\Sobrecargas.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
