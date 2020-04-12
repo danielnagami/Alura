@@ -54,6 +54,7 @@
     <Compile Include="Aula 2\2 - Classes\Classes.cs" />
     <Compile Include="Aula 2\3 - Interfaces\Interfaces.cs" />
     <Compile Include="Aula 2\4 - Delegates\Delegates.cs" />
+    <Compile Include="Aula 2\5 - Objetos\Objetos.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
