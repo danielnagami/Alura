@@ -81,7 +81,7 @@ namespace Certificacao_CSharp_pt1
                 new MenuItem("Objetos", typeof(Objetos)),
                 new MenuItem("Dinâmicos", typeof(Dinamicos)),
                 new MenuItem("Strings", typeof(Strings)),
-                //new MenuItem("Metodos", typeof(Metodos)),
+                new MenuItem("Metodos", typeof(Metodos)),
                 //new MenuItem("Parâmetros Nomeados", typeof(ParametrosNomeados)),
                 //new MenuItem("Parâmetros Opcionais", typeof(ParametrosOpcionais)),
                 //new MenuItem("Métodos de Extensão", typeof(MetodosDeExtensao)),
