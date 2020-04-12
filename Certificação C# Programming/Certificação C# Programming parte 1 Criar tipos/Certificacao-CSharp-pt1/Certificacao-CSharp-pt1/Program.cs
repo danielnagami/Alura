@@ -77,7 +77,7 @@ namespace Certificacao_CSharp_pt1
                 new MenuItem("Tipos de Refêrencia", typeof(TiposDeReferencia)),
                 new MenuItem("Classes", typeof(Classes)),
                 new MenuItem("Interfaces", typeof(Interfaces)),
-                //new MenuItem("Delegates", typeof(Delegates)),
+                new MenuItem("Delegates", typeof(Delegates)),
                 //new MenuItem("Objetos", typeof(Objetos)),
                 //new MenuItem("Dinâmicos", typeof(Dinamicos)),
                 //new MenuItem("Strings", typeof(Strings)),
