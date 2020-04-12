@@ -52,6 +52,7 @@
     <Compile Include="Aula 1\7 - Enums\Enumeracoes.cs" />
     <Compile Include="Aula 2\1 - Tipos de Referência\TiposDeReferencia.cs" />
     <Compile Include="Aula 2\2 - Classes\Classes.cs" />
+    <Compile Include="Aula 2\3 - Interfaces\Interfaces.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
